@@ -44,7 +44,7 @@ st.markdown("""
 """, unsafe_allow_html=True)
 
 # Title & Description
-st.title("🛍️ E-Commerce Customer Behavior & Purchase Patterns Dashboard")
+st.title("E-Commerce Customer Behavior & Purchase Patterns Dashboard")
 st.markdown("Explore customer metrics, engagement on app vs. website, membership duration, and spending patterns interactively.")
 
 # Sidebar & CSV Upload Option
